@@ -19,10 +19,14 @@
 ## Usage
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
+Version Of Vape Original:
 ```luau
 -- soon
 ```
-
+Verison Vape Modded But with UI Fluent:
+```luau
+-- soon
+```
 ## Possible Issues
 Half of the time its usually the scripting utility at fault, please make sure the utility meets certain quality standards such as.
 1. Supporting file functions & the debug library.
